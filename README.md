@@ -1,5 +1,4 @@
-# P12 Airdrop
-Software Engineer Test Task
+# Software Engineer Test Task
 
 ### Install dependencies
 
